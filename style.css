@@ -1,0 +1,38 @@
+*{
+    margin: 0%;
+}
+.container{
+    max-width: 900px;
+    margin: 0 auto;
+}
+.h1{
+align-items: flex-end;
+display: flex;
+
+}
+
+body{
+    background-color: rgb(241, 167, 140);
+    border: 10px solid rgb(147, 41, 3);
+    border-radius: 5px;
+}
+img{
+    width: 320px;
+    height: 320px;
+}
+li , p{
+    text-shadow: 2px 2px 5px rgb(106, 14, 14);
+    font-size: large;
+}
+h1{
+    color: red;
+}
+a{
+    color: red;
+    text-decoration: none;
+   
+}
+p,ul,li{
+    line-height: 20px;
+    text-align: justify;
+}
